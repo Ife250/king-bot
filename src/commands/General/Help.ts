@@ -62,7 +62,7 @@ export default class Command extends BaseCommand {
             caption: `${text} 
  ──❅┈[ 𝕏𝔸ℂ-𝑩𝒐𝒕 ]┈❅───
 ┌────────────┈❅
-│   🧨 XAC-BOT
+│   🧨 𝚇𝙰𝙲-𝙱𝙾𝚃
 │   ©️ ՏYᑎTᕼᗴՏIᘔᗴᗪ IᑎᖴIᑎITY
 └────────────┈⁂
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
