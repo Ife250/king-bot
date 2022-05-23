@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://github.com/iamherok/Cara_public"><img src="https://i.ytimg.com/vi/1XTkds78fOw/maxresdefault.jpg" alt="chitoge" border="0"></a>
 
-# **Yotsuba : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
+# **𝚇𝙰𝙲-𝙱𝙾𝚃 : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
@@ -39,11 +39,6 @@
 -   Make sure to follow the ESLint Rules while editing the code and run
     `yarn run prettier-format` before opening PRs
 
-##  🚀 Official Bot Contributors
-
-<a href="https://github.com/ShineiIchijo/Chitoge/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ShineiIchijo/Chitoge" />
-</a>
 
 ## I don't have any contributers LOL 😂
 ## 📄 License
@@ -51,14 +46,3 @@ Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE)
 for more information.
 ## 🎗Help
 Please give this repo a ⭐ if it helped you.
- 
-## 🚀The WhatsApp bots that I recomended🚀
-<details>
-<summary>Click Here</summary>
-
-![Kaoi][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajjwalDatir&repo=Kaoi&theme=buefy)](https://github.com/PrajjwalDatir/kaoi)
-
-![Chitoge][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShineiIchijo&repo=Chitoge&theme=buefy)](https://github.com/ShinNouzen/Chitoge)
-
-![Cara_public][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamherok&repo=Cara_public&theme=buefy)](https://github.com/iamherok/Cara_public)
-
