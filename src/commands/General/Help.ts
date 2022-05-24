@@ -45,10 +45,10 @@ export default class Command extends BaseCommand {
             let text = `
 ╭─「(づ￣ 3￣)づ」
 │⋊ 𝕌𝕤𝕖𝕣: *${M.sender.username}*
-│⋊ ℕ𝕒𝕞𝕖: 𝚇𝙰𝙲-𝙱𝙾𝚃
+│⋊ ℕ𝕒𝕞𝕖: ꪶ࿋྄ིᤢꫂKíñgsléyꪶ࿋྄ིᤢꫂ 
 │⋊ ℙ𝕣𝕖𝕗𝕚𝕩: ${this.client.config.prefix}
 │⋊ 𝕆𝕨𝕟𝕖𝕣: *${this.client.config.prefix}mod*
-│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: http://gg.gg/Piku-and-yotsuba-support
+│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: 
 ╰────────────┈平和                            \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
@@ -60,9 +60,9 @@ export default class Command extends BaseCommand {
             return void this.client.sendMessage(M.from, { url: chitoge }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
             caption: `${text} 
- ──❅┈[ 𝕏𝔸ℂ-𝑩𝒐𝒕 ]┈❅───
+ ──❅┈[ ꪶ࿋྄ིᤢꫂKíñgsléyꪶ࿋྄ིᤢꫂ  ]┈❅───
 ┌────────────┈❅
-│   🧨 𝚇𝙰𝙲-𝙱𝙾𝚃
+│   🧨 ꪶ࿋྄ིᤢꫂKíñgsléyꪶ࿋྄ིᤢꫂ 
 │   ©️ ՏYᑎTᕼᗴՏIᘔᗴᗪ IᑎᖴIᑎITY
 └────────────┈⁂
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
