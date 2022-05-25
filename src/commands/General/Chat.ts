@@ -11,7 +11,7 @@ export default class Command extends BaseCommand {
         super(client, handler, {
             command: 'chat',
             description: 'Chat with the kingsley bot in group',
-            aliases: ['bot','kingsley','king'],
+            aliases: ['bot', 'kingsley', 'king'],
             category: 'fun',
             usage: `${client.config.prefix}bot (text)`,
             baseXp: 30
