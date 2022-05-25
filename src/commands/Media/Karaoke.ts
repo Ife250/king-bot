@@ -30,7 +30,7 @@ export default class Command extends BaseCommand {
                 contextInfo: {
                     externalAdReply: {
                         title: `Search Term: ${term}`,
-                        body: `🌟 Chitoge 🌟`,
+                        body: `🌟 ꪶ࿋྄ིᤢꫂKíñgsléyꪶ࿋྄ིᤢꫂ 🌟`,
                         mediaType: 2,
                         thumbnailUrl: videos[0].thumbnail,
                         mediaUrl: videos[0].url
