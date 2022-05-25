@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
     run = async (M: ISimplifiedMessage): Promise<void> => {
         (await this.client.sendMessage(
         M.sender.jid,
-        `    ♥️MY BOSS GROUP♥️\n\n*🎇𝚇𝙰𝙲-𝙱𝙾𝚃 support:🎇* *https://chat.whatsapp.com/Jkxmhttps://chat.whatsapp.com/GCaeoSYTnxw3nd1GVz6Chu*\n\n*🪄OWNER INSTA🪄*:*https://instagram.com/hritmr?igshid=YmMyMTA2M2Y=*`,
+        `    ♥️MY BOSS GROUP♥️\n\n*🎇ꪶ࿋྄ིᤢꫂKíñgsléyꪶ࿋྄ིᤢꫂ support:🎇* *https://chat.whatsapp.com/Jkxmhttps://chat.whatsapp.com/DSyVrncdRBr0jIB4AtaW30*\n\n*🪄OWNER WAP🪄*:*https://wa.me/265889976968*`,
            MessageType.text
         ))
         const n = [
