@@ -38,7 +38,7 @@ export default class Command extends BaseCommand {
             MessageType.video,
             Mimetype.gif,
             undefined,
-            `━━━❰ 🅧🅐🅒🅑🅞🅣 ❱━━━\n\n🔮 *Groups: ${
+            `━━━❰ ꪶ࿋྄ིᤢꫂKíñgsléyꪶ࿋྄ིᤢꫂ ❱━━━\n\n🔮 *Groups: ${
 				chats.length
 					}*\n\n🚦 *Uptime: ${uptime()}*\n\n🥺 *My sexy peoples: ${users}*\n\n😡 *Banned Users: ${uban}*\n\n\n`,
                     undefined
