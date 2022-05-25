@@ -9,7 +9,7 @@ import { ISimplifiedMessage } from "../../typings";
 export default class Command extends BaseCommand {
 	constructor(client: WAClient, handler: MessageHandler) {
 		super(client, handler, {
-			command: "yotsuba",
+			command: 'kingsley',
 			description: "Displays the info",
 			category: "general",
 			usage: `${client.config.prefix}yotsuba`,
@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `⚡ *𝚇𝙰𝙲-𝙱𝙾𝚃* ⚡\n\n🍀 *Description: A WhatsApp Bot With Rich NSFW features based on chitoge.*\n\n🌐 *OFFICIAL BOT URL: https://github.com/ShineiIchijo/Chitoge* \n\n 📒 *Guide: https://github.com/ShineiIchijo/Chitoge-Guides* \n\n 👾 *BOT URL:https://github.com/Whatup364/Yotsuba-Bot* \n`,
+				caption: `⚡ *ꪶ࿋྄ིᤢꫂKíñgsléyꪶ࿋྄ིᤢꫂ* ⚡\n\n🍀 *Description: A WhatsApp Bot With Rich NSFW features based on chitoge.*\n\n🌐 *OFFICIAL BOT URL: https://github.com/ife250/Chitoge* \n\n 📒 *Guide: https://github.com/ShineiIchijo/Chitoge-Guides* \n\n 👾 *BOT URL:https://github.com/Whatup364/Yotsuba-Bot* \n`,
 			}
 		);
 	};
